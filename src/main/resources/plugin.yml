@@ -1,0 +1,8 @@
+name: HeadClicker
+version: ${project.version}
+main: lucyferms.headclicker.headclicker.HeadClicker
+api-version: 1.16
+authors: [ LucyferMS, zabijaka42 ]
+commands:
+  hc:
+    usage: /ac
